@@ -1,0 +1,2 @@
+bench_comp_assembly: "localhost:5000"
+other_bench_comp: "localhost:5001"
